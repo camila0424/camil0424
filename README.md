@@ -1,6 +1,14 @@
 # 👋 ¡Hola! Soy Camila Bedoya
 
-(https://readme-typing-svg.demolab.com/demo/?color=6324E4E4&center=true&multiline=true&lines=%F0%9F%92%A1Full+Stack+Developer+Junior+%F0%9F%92%BB)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4E4&center=true&multiline=true&width=435&lines=💡+Full+Stack+Developer+Junior+💻" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
 ---
 Soy **Camila Bedoya**, desarrolladora Fullstack con fuerte enfoque en frontend y pasión por crear experiencias digitales intuitivas, accesibles y visualmente atractivas. Mi trabajo combina creatividad y lógica para transformar ideas en interfaces dinámicas, funcionales y centradas en el usuario.
 
