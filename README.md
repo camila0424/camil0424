@@ -5,6 +5,7 @@
   alt="Typing SVG" 
 />
 
+
 ---
 Soy **Camila Bedoya**, desarrolladora Fullstack con fuerte enfoque en frontend y pasión por crear experiencias digitales intuitivas, accesibles y visualmente atractivas. Mi trabajo combina creatividad y lógica para transformar ideas en interfaces dinámicas, funcionales y centradas en el usuario.
 
