@@ -14,8 +14,6 @@ Manejo tecnologías modernas como **React**, **React Native**, **Expo**, **JavaS
 
 Mi experiencia previa como docente me ha dotado de empatía, escucha activa y comunicación asertiva, habilidades que potencian mi capacidad para crear soluciones tecnológicas humanas, efectivas y orientadas al usuario, así como para colaborar en equipos multidisciplinarios.
 
-Actualmente, desarrollo **mila_music**, una plataforma musical que ofrece una experiencia envolvente y personalizada, donde aplico mis conocimientos en frontend para diseñar una interfaz fluida, accesible y atractiva.
-
 Me motiva formar parte de equipos que valoran la innovación, el aprendizaje continuo y el trabajo colaborativo. Soy una profesional comprometida, detallista y con actitud positiva, lista para aportar valor a través del código y el diseño de experiencias memorables.
 
 
