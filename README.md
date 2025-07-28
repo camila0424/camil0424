@@ -1,12 +1,10 @@
 # 👋 ¡Hola! Soy Camila Bedoya
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4E4&center=true&multiline=true&width=435&lines=💡+Full+Stack+Developer+Junior+💻" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6324E4&center=true&multiline=true&width=435&lines=💡+Full+Stack+Developer+Junior+💻" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
