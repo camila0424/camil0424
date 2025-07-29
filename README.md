@@ -1,5 +1,4 @@
-# 👋 ¡Hola! 
-Soy Camila Bedoya
+# 👋 ¡Hola! Soy Camila Bedoya
 
 <p align="center">
   <a href="https://git.io/typing-svg">
