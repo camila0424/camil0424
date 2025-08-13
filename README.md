@@ -36,9 +36,10 @@ Me motiva formar parte de equipos que valoran la innovación, el aprendizaje con
 
 
 ### 🛠️ Proyectos recientes
-
+- [Portafolio] (https://portafolio-livid-six.vercel.app/)- Aplicación tipo CV para mostrar mi experiencia y proyectos, creada con React, Tailwind CSS y Vite.
+- [Piedra-Papel-Tijera] (https://juega-piedra-papel-o-tijera.vercel.app/) - Juego creado con React y Tailwind. 
 - [🥗 Meal App (React Native)] (https://github.com/camila0424/meal-app-react-native.git) – Plataforma móvil para explorar recetas creada con React Native Expo.
-- [🛍️ Mila Music]((https://mila-music-e70tjiwnj-camila-s-projects-f41f8c26.vercel.app)) – Plataforma para conectar estudiantes con docentes de música, creada con React, aún en progreso.
+- [🛍️ Mila Music] (https://mila-music-e70tjiwnj-camila-s-projects-f41f8c26.vercel.app) – Plataforma para conectar estudiantes con docentes de música, creada con React, aún en progreso.
 
 
 ### 📚 Formación
